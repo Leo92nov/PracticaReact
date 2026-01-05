@@ -1,4 +1,4 @@
 export default function TituloComponente(){
-    return <h1 className="font-bold text-center">Vansen Estetica</h1>
+    return <h1 className="font-bold text-center">Videos</h1>
 
 }
